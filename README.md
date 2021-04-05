@@ -1,5 +1,5 @@
 ### Hey there, I'm Tushar Surve<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ttusharsurve567)
 <!--
 **ttusharsurve567/ttusharsurve567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
