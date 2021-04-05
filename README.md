@@ -3,6 +3,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-surve-226691137/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ttusharsurve567@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=ttusharsurve567.ttusharsurve567)
+
+<br />
 <!--
 **ttusharsurve567/ttusharsurve567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
