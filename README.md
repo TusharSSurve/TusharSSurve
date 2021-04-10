@@ -1,11 +1,14 @@
-### Hello, folks<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=appveyor&logo=Github&logoColor=white)](https://github.com/ttusharsurve567)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=appveyor&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-surve-226691137/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white)](mailto:ttusharsurve567@gmail.com)
-<!--![](https://visitor-badge.glitch.me/badge?page_id=ttusharsurve567.ttusharsurve567) -->
+<h1 align="center"> Hello, folks<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
+<p align="center">
+<br>
+<a href="https://github.com/ttusharsurve56"><img src="https://img.shields.io/badge/-Github-000?&style=for-the-badge&logo=Github&logoColor=white" alt="Github" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/tushar-surve-226691137/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:ttusharsurve567@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+</p>
 <br />
 
+<h4 align="center">My name is Tushar Surve. I'm a final year student pursuing Bachelor's in Computer Science 🎓 from Pune University 🏛. I'm a passionate learner who's always willing to learn and use my knowledge in practical applications 💡. I'm currently into ML/DL and Flutter Development 🤓.</h4>
 <h2 align="center">Technical Skills</h2>
 
 - **Programming Languages :** <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
@@ -19,13 +22,24 @@
 
 - **Operating System :** <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
-<h3 align="left">Streak</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ttusharsurve567&theme=dark" alt="ttusharsurve567" /></p>
+<h3 align="center">Streak</h3>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ttusharsurve567&theme=dark" alt="ttusharsurve567" /></p>
 
+<hr/>
+<p align="center"> 
+  <samp>
+    Profile Views Count
+  </samp>
+</p>
 
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/ttusharsurve567/count.svg" alt="ttusharsurve567 profile views" /> 
+</p>
+
+Credits: [Tushar Surve](https://github.com/ttusharsurve567)
+
+Last Edited on: 10/04/2021
 <!--
-**ttusharsurve567/ttusharsurve567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
