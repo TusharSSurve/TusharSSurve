@@ -5,6 +5,10 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ttusharsurve567.ttusharsurve567)
 
 <br />
+
+### Github Stats
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ttusharsurve567&show_icons=true&theme=merko&count_private=true&include_all_commits=true"/>
 <!--
 **ttusharsurve567/ttusharsurve567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
