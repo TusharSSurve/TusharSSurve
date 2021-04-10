@@ -2,9 +2,12 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=appveyor&logo=Github&logoColor=white)](https://github.com/ttusharsurve567)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=appveyor&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-surve-226691137/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white)](mailto:ttusharsurve567@gmail.com)
-![](https://visitor-badge.glitch.me/badge?page_id=ttusharsurve567.ttusharsurve567)
+<!--![](https://visitor-badge.glitch.me/badge?page_id=ttusharsurve567.ttusharsurve567) -->
 
 <br />
+
+<h3 align="left">Streak</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ttusharsurve567&" alt="ttusharsurve567" /></p>
 
 ### Github Stats
 
