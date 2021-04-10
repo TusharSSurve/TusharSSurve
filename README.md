@@ -8,7 +8,7 @@
 
 ### Github Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ttusharsurve567&show_icons=true&theme=merko&count_private=true&include_all_commits=true"/>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ttusharsurve567&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true"/>
 <!--
 **ttusharsurve567/ttusharsurve567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
