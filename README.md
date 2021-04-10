@@ -1,6 +1,5 @@
 ### Hello, folks<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<img src="https://img.shields.io/badge/ttusharsurve567@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="ttusharsurve567@gmail.com">
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ttusharsurve567)
+[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=appveyor&logo=Github&logoColor=white)](https://github.com/ttusharsurve567)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-surve-226691137/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ttusharsurve567@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=ttusharsurve567.ttusharsurve567)
