@@ -1,12 +1,10 @@
 <h1 align="center"> Hello, folks<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <p align="center">
-<br>
 <a href="https://github.com/ttusharsurve56"><img src="https://img.shields.io/badge/-Github-000?&style=for-the-badge&logo=Github&logoColor=white" alt="Github" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/tushar-surve-226691137/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:ttusharsurve567@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
-<br />
 <h4 align="center">My name is Tushar Surve. I'm a final year student pursuing Bachelor's in Computer Science 🎓 from Pune University 🏛. I'm a passionate learner who's always willing to learn and use my knowledge in practical applications 💡. I'm currently into ML/DL and Flutter Development.</h4>
 <h2 align="center">Technical Skills</h2>
 
