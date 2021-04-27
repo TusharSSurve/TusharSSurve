@@ -32,7 +32,3 @@
   <img src="https://profile-counter.glitch.me/ttusharsurve567/count.svg" alt="ttusharsurve567 profile views" /> 
 </p>
 
-Credits: [Tushar Surve](https://github.com/ttusharsurve567)
-
-Last Edited on: 11/04/2021
-
