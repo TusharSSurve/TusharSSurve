@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, folks</h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/tushar-surve-226691137/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/surve-tushar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:ttusharsurve567@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 <h4 align="center">My name is Tushar Surve. I'm currently working for <strong>Tata Consultancy Services</strong> as a Frontend Developer. I'm a passionate learner who's always willing to learn and use my knowledge in practical applications 💡. I'm currently into ML/DL and Flutter App Development.</h4>
@@ -19,7 +19,7 @@
 - **Operating System :** <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 <h3 align="center">Streak</h3>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ttusharsurve567&theme=dark" alt="ttusharsurve567" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TusharSSurve&theme=dark" alt="TusharSSurve" /></p>
 
 <hr/>
 <p align="center"> 
@@ -29,6 +29,6 @@
 </p>
 
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/ttusharsurve567/count.svg" alt="ttusharsurve567 profile views" /> 
+  <img src="https://profile-counter.glitch.me/TusharSSurve/count.svg" alt="TusharSSurve profile views" /> 
 </p>
 
