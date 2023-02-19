@@ -7,6 +7,7 @@
 Passionate **FullStack Developer** from Pune | India:india:, most of my time I spend solving real-world problems and learning new technologies.
 
 - System Engineer [@TCS](https://www.tcs.com/)
+- Flutter Intern at @FroshLink
 - Python Intern at [@Weoto](https://weoto.in).
 - Currently, learning and exploring **AWS & ReactJS** 
 - Beside's programming, I enjoy playing video games and reading books.
