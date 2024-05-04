@@ -10,7 +10,6 @@
 - 🌱 I’m currently learning more about **Data Analytics** & **React.JS**.
 - 📫 How to reach me: Check social links below.
 - ♟️ Chess Elo: 1000+
-- 🔗 .
 
 ## 🌐 Socials
 
@@ -34,9 +33,6 @@
 <br/>
 **Databases :** <br/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<br/>
-**Project Management Tools:** <br/>
-<img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <br/>
 
 ## 💳 Github Profile Summary Card
