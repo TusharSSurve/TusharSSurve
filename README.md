@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I'm Tushar Surve <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center"> Hello, I'm <a href="https://tusharssurve.github.io/portfolio/">Tushar Surve</a> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /></h1> 
@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning more about **Data Analytics** & **React.JS**.
 - 📫 How to reach me: Check social links below.
 - ♟️ Chess Elo: 1000+
-- 🔗 [Portfolio](https://tusharssurve.github.io/portfolio/).
+- 🔗 .
 
 ## 🌐 Socials
 
