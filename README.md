@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning more about **Data Analytics** & **React.JS**.
 - 📫 How to reach me: Check social links below.
 - ♟️ Chess Elo: 1000+
+- 🔗 [Portfolio](https://tusharssurve.github.io/portfolio/).
 
 ## 🌐 Socials
 
