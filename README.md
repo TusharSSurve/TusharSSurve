@@ -9,7 +9,7 @@
 - 👨‍💼 Previously worked with [@FroshLink](https://www.linkedin.com/company/froshlink/about/) & [@Weoto](https://weoto.in).
 - 🌱 I’m currently learning more about **Data Analytics** & **React.JS**.
 - 📫 How to reach me: Check social links below.
-- ♟️ Chess Elo: 1000+
+- ♟️ Chess Elo: 1100+
 
 ## 🌐 Socials
 
