@@ -5,11 +5,11 @@
 
 # 💫 About Me :
 - 😄 Pronouns: He/Him
-- 💼 I’m currently working at [@TCS](https://www.tcs.com/).
-- 👨‍💼 Previously worked with [@FroshLink](https://www.linkedin.com/company/froshlink/about/) & [@Weoto](https://weoto.in).
-- 🌱 I’m currently learning more about **Data Analytics** & **React.JS**.
+- 💼 I’m currently working at [@Infosys](https://www.infosys.com/).
+- 👨‍💼 Previously worked with [@TCS](https://www.tcs.com/), [@FroshLink](https://www.linkedin.com/company/froshlink/about/) & [@Weoto](https://weoto.in).
+- 🌱 I’m currently learning more about **Java FullStack with React.JS**.
 - 📫 How to reach me: Check social links below.
-- ♟️ Chess Elo: 1200+
+- ♟️ Chess Elo: 1400+
 
 ## 🌐 Socials
 
