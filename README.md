@@ -46,14 +46,6 @@
 </p>
 
 ---
-<p align="center"> 
-  <samp>
-    Profile Views Count
-  </samp>
-</p>
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/TusharSSurve/count.svg" alt="TusharSSurve profile views" /> 
-</p>
 
 <div align="center">
   
