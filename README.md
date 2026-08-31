@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him
 - 💼 I’m currently working at [@Bosch](https://www.bosch-softwaretechnologies.com/en/).
 - 👨‍💼 Previously worked with [@Infosys](https://www.infosys.com/), [@TCS](https://www.tcs.com/), [@FroshLink](https://www.linkedin.com/company/froshlink/about/) & [@Weoto](https://weoto.in).
-- 🌱 I’m currently learning more about **Java FullStack with React.JS**.
+- 🌱 I’m currently learning more about **Python FullStack with React.JS**.
 - 📫 How to reach me: Check social links below.
 - ♟️ Chess Elo: 1400+
 
