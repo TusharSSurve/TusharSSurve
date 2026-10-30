@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://tusharsurve.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=42B883&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Bosch;Python+Full-Stack+%2B+React.js;ML+%7C+Computer+Vision+%7C+Data;Chess+enthusiast+%E2%99%9F%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=42B883&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Bosch;FastAPI+%2B+Next.js+Full-Stack;ML+%7C+Computer+Vision+%7C+Data;Chess+enthusiast+%E2%99%9F%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,7 +22,8 @@ class TusharSurve:
     pronouns   = "He/Him"
     role       = "Software Engineer @ Bosch"
     previously = ["Infosys", "TCS", "FroshLink", "Weoto"]
-    learning   = "Python Full-Stack + React.js"
+    stack      = ["FastAPI", "Next.js", "React", "Python"]
+    learning   = "Scalable full-stack apps with FastAPI + Next.js"
     interests  = ["Machine Learning", "Computer Vision", "Data Viz"]
     hobbies    = ["Chess ♟️", "Building side projects"]
 
